@@ -1,0 +1,21 @@
+# Binaries and Object Files
+*.exe
+*.obj
+*.exp
+*.lib
+*.pdb
+*.ilk
+
+# Python
+__pycache__/
+*.pyc
+
+# Output Images
+output_*.jpg
+
+# System
+thumbs.db
+.DS_Store
+
+# Editor
+.vscode/
